@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HomeLibrary.Api.Tests/HomeLibrary.Api.Tests.csproj" />
+  <Project Path="HomeLibrary.Api/HomeLibrary.Api.csproj" />
+</Solution>
